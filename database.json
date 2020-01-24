@@ -1,0 +1,52 @@
+[
+    {
+      "id": 23,
+      "Name": "Lamborguini Huracán",
+     "Brand": "Lamborguini",
+      "Model": "Huracán",
+      "Year": "2018",
+     "Color": "Green",
+      "Price": "2300,00",
+      "Photo": "https://raw.githubusercontent.com/Meridoc/Meridoc/master/car%2023.jpg"
+    },
+    {
+     "id": 24,
+     "Name": "Ford Focus III",
+     "Brand": "Ford",
+     "Model": "R4 1.6 TDCi 120 KM",
+     "Year": "2012",
+     "Color": "Silver",
+     "Price": "200,00",
+     "Photo": "https://raw.githubusercontent.com/Meridoc/Meridoc/master/car%2024.jpg"
+    },
+    {
+     "id": 25,
+     "Name": "Opel Corsa E",
+     "Brand": "Opel",
+     "Model": "R4 1.4 75 KM",
+     "Year": "2018",
+     "Color": "Green",
+     "Price": "2500,00",
+     "Photo": "https://raw.githubusercontent.com/Meridoc/Meridoc/master/car%2025.jpg"
+    },
+    {
+     "id": 26,
+     "Name": "Ford Mustang GT Street",
+     "Brand": "Ford",
+     "Model": "Mustang GT Street",
+     "Year": "2015",
+     "Color": "Red",
+     "Price": "1000,00",
+     "Photo": "https://raw.githubusercontent.com/Meridoc/Meridoc/master/car%2026.jpg"
+    },
+    {
+     "id": 27,
+     "Name": "Renault Trafic III",
+     "Brand": "Renault",
+     "Model": "Renault Trafic III",
+     "Year": "2018",
+     "Color": "White",
+     "Price": "250,00",
+     "Photo": "https://raw.githubusercontent.com/Meridoc/Meridoc/master/car%2027.jpg"
+    }
+]
